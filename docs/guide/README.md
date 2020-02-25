@@ -41,6 +41,15 @@ Cloud services for IoT development.
 - [Getting started with feeds](./getting-started-with-feeds/)
 - [Multiple time series](./multiple-time-series/)
 
+## XOD Graphics
+
+- [Graphics library](./graphics-library/)
+
+LCD and OLED graphic displays:
+
+- [SSD1306 displays](./ssd1306-displays/)
+- [ST7735 displays](./st7735-displays/)
+
 ## Case studies
 
 - [Working with servo motors](./servo/)
